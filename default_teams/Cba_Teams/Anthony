@@ -1,4 +1,4 @@
-[
+
 {"city" : "Hawaii",     	"mascot" : "Ninja",	  	"short" : "HI",	"homeText" : "000000",	"homeMain" : "7B7B7B",	"homeSecondary" : "000000",	"awayText" : "FFFFFF",	"awayMain" : "FFFFFF",  "awaySecondary" : "869397"},
 {"city" : "Seattle",   	"mascot" : "Spacemen",		"short" : "SEA", 	"homeText" : "FFFFFF",	"homeMain" : "2A006A",	"homeSecondary" : "FFFFFF",	"awayText" : "000000",	"awayMain" : "000000",  "awaySecondary" : "2A006A"},
 {"city" : "Washington",     	"mascot" : "Pirates",			"short" : "WAS", 	"homeText" : "FFFFFF",	"homeMain" : "8A0002",	"homeSecondary" : "000000",	"awayText" : "FFFFFF",	"awayMain" : "000000",  "awaySecondary" : "8A0002"},
@@ -31,4 +31,4 @@
 {"city" : "Charlotte",   "mascot" : "Blue Hawks",		"short" : "CHA", 	"homeText" : "000000",	"homeMain" : "00BBB8",	"homeSecondary" : "000000",	"awayText" : "00BBB8",	"awayMain" : "000000",  "awaySecondary" : "00BBB8"},
 {"city" : "Atlanta",   		"mascot" : "Royals",		"short" : "ATL", 	"homeText" : "FFFFFF",	"homeMain" : "A300D1",	"homeSecondary" : "D10003",	"awayText" : "FFFFFF",	"awayMain" : "D10003",  "awaySecondary" : "A300D1"},
 {"city" : "Boston",        	"mascot" : "Dragons",		"short" : "BOS", 	"homeText" : "000000",	"homeMain" : "E20909",	"homeSecondary" : "FFD500",	"awayText" : "FFFFFF",	"awayMain" : "FFD500",  "awaySecondary" : "E20909"}
-]
+
